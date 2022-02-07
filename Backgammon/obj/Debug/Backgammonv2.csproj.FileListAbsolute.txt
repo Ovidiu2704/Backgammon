@@ -1,0 +1,10 @@
+F:\Backgammon v1\Backgammon\bin\Debug\Backgammon.exe.config
+F:\Backgammon v1\Backgammon\bin\Debug\Backgammon.exe
+F:\Backgammon v1\Backgammon\bin\Debug\Backgammon.pdb
+F:\Backgammon v1\Backgammon\obj\Debug\Backgammonv2.csproj.AssemblyReference.cache
+F:\Backgammon v1\Backgammon\obj\Debug\Backgammon.Backgammon.resources
+F:\Backgammon v1\Backgammon\obj\Debug\Backgammon.Properties.Resources.resources
+F:\Backgammon v1\Backgammon\obj\Debug\Backgammonv2.csproj.GenerateResource.cache
+F:\Backgammon v1\Backgammon\obj\Debug\Backgammonv2.csproj.CoreCompileInputs.cache
+F:\Backgammon v1\Backgammon\obj\Debug\Backgammon.exe
+F:\Backgammon v1\Backgammon\obj\Debug\Backgammon.pdb
